@@ -28,7 +28,7 @@ class adminaidInfo
     static function info()
     {
         return array( 'Name' => 'Admin Aid',
-                      'Version' => "1.1.4",
+                      'Version' => "1.1.5",
                       'Copyright' => 'Copyright (C) 2010 - 2012 A.Bakkeboe, Copyright (C) 2024 - 2026 7x',
                       'License' => 'GNU General Public License v2.0',
                       'Info_url' => 'https://github.com/se7enxweb/AdminAid'
