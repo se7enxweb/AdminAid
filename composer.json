@@ -1,0 +1,25 @@
+{
+    "name": "se7enxweb/adminaid",
+    "description": "AdminAid for Exponential: an admin tab with a database search by ID or text, detailed content object views, lists of all objects of a class, class translation in every language on one page, and switching to another user without a password for debugging",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "Exponential", "Exponential 6", "legacy extension", "administration", "debugging", "user switch", "class translation", "database search" ],
+    "homepage": "https://github.com/se7enxweb/AdminAid",
+    "license": "GPL-2.0-only",
+    "authors": [
+        { "name": "A. Bakkeboe", "role": "Author" },
+        { "name": "Brookins Consulting", "role": "Contributor" },
+        { "name": "7x", "homepage": "https://se7enx.com", "email": "info@se7enx.com", "role": "Maintainer" }
+    ],
+    "support": {
+        "issues": "https://github.com/se7enxweb/AdminAid/issues",
+        "source": "https://github.com/se7enxweb/AdminAid"
+    },
+    "require": {
+        "php": ">=8.0",
+        "se7enxweb/exponential-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "adminaid",
+        "installer-name": "adminaid"
+    }
+}

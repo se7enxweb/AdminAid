@@ -2,8 +2,7 @@
 //
 // ## BEGIN COPYRIGHT, LICENSE AND WARRANTY NOTICE ##
 // SOFTWARE NAME: Admin Aid
-// SOFTWARE RELEASE: 1.0
-// COPYRIGHT NOTICE: Copyright (C) 2010 A.Bakkeboe
+// COPYRIGHT NOTICE: Copyright (C) 2010 - 2012 A.Bakkeboe; Copyright (C) 2024 - 2026 7x
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
 //   This program is free software; you can redistribute it and/or
@@ -24,13 +23,13 @@
 // ## END COPYRIGHT, LICENSE AND WARRANTY NOTICE ##
 //
 
-class ezAdminAidInfo
+class adminaidInfo
 {
     static function info()
     {
         return array( 'Name' => 'Admin Aid',
                       'Version' => "1.1.4",
-                      'Copyright' => 'Copyright (C) 2010 A.Bakkeboe',
+                      'Copyright' => 'Copyright (C) 2010 - 2012 A.Bakkeboe, Copyright (C) 2024 - 2026 7x',
                       'License' => 'GNU General Public License v2.0',
                       'Info_url' => 'https://github.com/se7enxweb/AdminAid'
                      );
